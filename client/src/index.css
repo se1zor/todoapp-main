@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: url('https://wallpapers-clan.com/wp-content/uploads/2023/12/jujutsu-kaisen-satoru-gojo-black-white-wallpaper-scaled.jpg') no-repeat black;
+  background-size:contain;
+  background-position: center;
+  
+}

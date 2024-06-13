@@ -1,0 +1,25 @@
+{
+  "name": "todo-be",
+  "version": "1.0.0",
+  "description": "To-Do List backend for frontend assessment.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "se1z0r",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "mongodb": "^6.6.2",
+    "react-router-dom": "^6.23.1"
+  },
+  "keywords": []
+}
